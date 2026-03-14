@@ -1,7 +1,8 @@
 # Ryan Berry
 
 Captain Ryan Berry, USMC
-Operations Research Graduate Student
+
+Operations Research Graduate Student at the
 Naval Postgraduate School
 
 ---
