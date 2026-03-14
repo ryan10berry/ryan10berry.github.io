@@ -73,6 +73,6 @@ https://github.com/ryan10berry/Berry_ExtraCredit_streamlit_QR
 ## Contact
 Email: ryanberry77@gmail.com
 
-GitHub Profile
+GitHub Profile:
 https://github.com/ryan10berry
 
